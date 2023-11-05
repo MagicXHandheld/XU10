@@ -8,9 +8,9 @@ After downloading the firmware, use Win32DiskImager and other tools to burn it. 
 
 ### **Download Link**
 
-[64G](https://archive.org/details/20231101-xu-10-64-g "64G image")
+[64G](https://archive.org/details/20231103-xu-10-64-g "64G image")
 
-128G : Waiting for resources
+[128G](https://archive.org/details/20231103-xu-10-128-g "128G image")
 
 256G : Waiting for resources
 
