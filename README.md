@@ -9,7 +9,7 @@ The latest firmware optimizes the startup animation volume and adds 5 new langua
 
 PS:The author is considering whether to port JELOS
 
-### **How to eat**
+### **How to eat** ###
 
 After downloading the firmware, use Win32DiskImager and other tools to burn it. After the burning is completed, you can.
 
