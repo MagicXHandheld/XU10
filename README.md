@@ -7,8 +7,6 @@ This repository serves as the XU10 fixed repository.
 
 The latest firmware optimizes the startup animation volume and adds 5 new languages, including: France, Netherlands, Vietnam, Italy, and Germany.
 
-PS:The author is considering whether to port JELOS
-
 ### **How to eat** ###
 
 After downloading the firmware, use Win32DiskImager and other tools to burn it. After the burning is completed, you can.
