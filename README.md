@@ -4,20 +4,26 @@ This repository serves as the XU10 fixed repository.
 
 
 ### ⚠️ XU10 2.0 update⚠️ ###
+
 2024.02.27
+
 update content:
+
 1、UI interface update
+
 2、Freely switch between TF1 and TF2 to load the game
+
 3、OTG and controller driver rewritten, now RetroArch supports two-player and four-player games
+
 4、Optimized for PSP, performance improved by about 15-20% (Fixed most game errors, including God of War, Ridge Racer and other games.)
 
 ### ** 2.0 Download Link**
 
-[64G] "Waiting for upload"
+[64G] Waiting for upload
 
-[128G] "Waiting for upload"
+[128G] Waiting for upload
 
-[256G] "Waiting for upload"
+[256G] Waiting for upload
 
 ### **How to eat** ###
 
