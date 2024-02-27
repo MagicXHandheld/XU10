@@ -3,15 +3,27 @@
 This repository serves as the XU10 fixed repository.
 
 
-### ⚠️latest news⚠️ ###
+### ⚠️ XU10 2.0 update⚠️ ###
+2024.02.27
+update content:
+1、UI interface update
+2、Freely switch between TF1 and TF2 to load the game
+3、OTG and controller driver rewritten, now RetroArch supports two-player and four-player games
+4、Optimized for PSP, performance improved by about 15-20% (Fixed most game errors, including God of War, Ridge Racer and other games.)
 
-The latest firmware optimizes the startup animation volume and adds 5 new languages, including: France, Netherlands, Vietnam, Italy, and Germany.
+### ** 2.0 Download Link**
+
+[64G] "Waiting for upload"
+
+[128G] "Waiting for upload"
+
+[256G] "Waiting for upload"
 
 ### **How to eat** ###
 
 After downloading the firmware, use Win32DiskImager and other tools to burn it. After the burning is completed, you can.
 
-### **Download Link**
+### ** 1.0 Download Link**
 
 [64G](https://archive.org/details/20231209-xu-10-64-g.img.gz.-003 "64G image")
 
