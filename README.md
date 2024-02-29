@@ -19,7 +19,7 @@ update content:
 
 ### ** 2.0 Download Link**
 
-[64G] Waiting for upload
+[64G](https://archive.org/download/20240228-xu-10-2.0-64-g.img.gz.-001 "64G image")
 
 [128G] Waiting for upload
 
