@@ -23,7 +23,7 @@ update content:
 
 [128G] Waiting for upload
 
-[256G] Waiting for upload
+[256G] (https://archive.org/download/20240228-xu-10-2.0-256-g.img.gz.-001 "256G image")
 
 ### **How to eat** ###
 
