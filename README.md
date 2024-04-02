@@ -19,11 +19,11 @@ update content:
 
 ### ** 2.0 Download Link**
 
-[64G](https://archive.org/download/20240228-xu-10-2.0-64-g.img.gz.-001 "64G image")
+[64G](https://archive.org/download/20240329-xu-10-en-2.0-64-g.img.gz.-001 "64G image")
 
-[128G](https://archive.org/download/20240228-xu-10-2.0-128-g.img.gz.-001 "128G image")
+[128G](https://archive.org/download/20240329-xu-10-en-2.0-128-g.img.gz.-001 "128G image")
 
-[256G](https://archive.org/download/20240228-xu-10-2.0-256-g.img.gz.-001 "256G image")
+[256G](https://archive.org/download/20240329-xu-10-en-2.0-256-g.img.gz.-001 "256G image")
 
 ### **How to eat** ###
 
