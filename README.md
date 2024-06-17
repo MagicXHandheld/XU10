@@ -3,6 +3,32 @@
 This repository serves as the XU10 fixed repository.
 
 
+### ⚠️ XU10 3.0 update⚠️ ###
+
+2024.06.17
+
+update content:
+
+1、Battery charging and power usage optimization. (Battery usage is theoretically increased by 1 hour)
+
+2、SD card compatibility improvements. (It should now be compatible with common TF cards)
+
+3、Screen driver modification. (Screen fixes random flickering problem)
+
+4、All simulator versions are updated to the latest
+
+5、Fix random loss simulator issue
+
+
+### ** 3.0 Download Link**
+
+[64G](https://archive.org/download/20240616-xu-10-en-3.0-64-g.img.gz.-001 "64G image")
+
+[128G]
+
+[256G]
+
+
 ### ⚠️ XU10 2.0 update⚠️ ###
 
 2024.02.27
