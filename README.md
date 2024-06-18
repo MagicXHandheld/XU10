@@ -24,7 +24,7 @@ update content:
 
 [64G](https://archive.org/download/20240616-xu-10-en-3.0-64-g.img.gz.-001 "64G image")
 
-[128G]
+[128G](https://archive.org/download/20240617-xu-10-en-3.0-128-g.img.gz.-001 "128G image")
 
 [256G]
 
