@@ -26,7 +26,7 @@ update content:
 
 [128G](https://archive.org/download/20240617-xu-10-en-3.0-128-g.img.gz.-001 "128G image")
 
-[256G]
+[256G](https://archive.org/download/20240618-xu-10-en-3.0-256-g.img.gz.-001 "256G image")
 
 
 ### ⚠️ XU10 2.0 update⚠️ ###
