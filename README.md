@@ -2,6 +2,31 @@
 
 This repository serves as the XU10 fixed repository.
 
+### ⚠️ XU10 3.2 update⚠️ ###
+
+2024.07.13
+
+update content:
+
+1、Optimize battery life again.
+
+2、Reduce dormant resource consumption
+
+3、Fix some known issues
+
+
+
+### ** 3.2 Download Link**
+
+[64G](https://archive.org/download/20240711-xu-10-en-3.2-64-g.img.gz.-001 "64G image")
+
+[128G]("")
+
+[256G]("")
+
+
+
+
 
 ### ⚠️ XU10 3.0 update⚠️ ###
 
