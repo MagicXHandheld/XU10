@@ -20,9 +20,9 @@ update content:
 
 [64G](https://archive.org/download/20240711-xu-10-en-3.2-64-g.img.gz.-001 "64G image")
 
-[128G]("")
+[128G](https://archive.org/download/20240711-xu-10-en-3.2-128-g.img.gz.-001 "128G image")
 
-[256G]("")
+[256G](https://archive.org/download/20240711-xu-10-en-3.2-256-g.img.gz.-001 "256G image")
 
 
 
